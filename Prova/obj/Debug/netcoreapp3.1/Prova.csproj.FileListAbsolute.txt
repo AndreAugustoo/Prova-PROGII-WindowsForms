@@ -1,0 +1,15 @@
+C:\Users\André Augusto\Desktop\Prova\Prova\Prova\bin\Debug\netcoreapp3.1\Prova.exe
+C:\Users\André Augusto\Desktop\Prova\Prova\Prova\bin\Debug\netcoreapp3.1\Prova.deps.json
+C:\Users\André Augusto\Desktop\Prova\Prova\Prova\bin\Debug\netcoreapp3.1\Prova.runtimeconfig.json
+C:\Users\André Augusto\Desktop\Prova\Prova\Prova\bin\Debug\netcoreapp3.1\Prova.runtimeconfig.dev.json
+C:\Users\André Augusto\Desktop\Prova\Prova\Prova\bin\Debug\netcoreapp3.1\Prova.dll
+C:\Users\André Augusto\Desktop\Prova\Prova\Prova\bin\Debug\netcoreapp3.1\Prova.pdb
+C:\Users\André Augusto\Desktop\Prova\Prova\Prova\obj\Debug\netcoreapp3.1\Prova.csproj.AssemblyReference.cache
+C:\Users\André Augusto\Desktop\Prova\Prova\Prova\obj\Debug\netcoreapp3.1\Prova.frmPrincipal.resources
+C:\Users\André Augusto\Desktop\Prova\Prova\Prova\obj\Debug\netcoreapp3.1\Prova.csproj.GenerateResource.cache
+C:\Users\André Augusto\Desktop\Prova\Prova\Prova\obj\Debug\netcoreapp3.1\Prova.AssemblyInfoInputs.cache
+C:\Users\André Augusto\Desktop\Prova\Prova\Prova\obj\Debug\netcoreapp3.1\Prova.AssemblyInfo.cs
+C:\Users\André Augusto\Desktop\Prova\Prova\Prova\obj\Debug\netcoreapp3.1\Prova.csproj.CoreCompileInputs.cache
+C:\Users\André Augusto\Desktop\Prova\Prova\Prova\obj\Debug\netcoreapp3.1\Prova.dll
+C:\Users\André Augusto\Desktop\Prova\Prova\Prova\obj\Debug\netcoreapp3.1\Prova.pdb
+C:\Users\André Augusto\Desktop\Prova\Prova\Prova\obj\Debug\netcoreapp3.1\Prova.genruntimeconfig.cache
